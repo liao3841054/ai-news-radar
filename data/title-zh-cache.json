@@ -4162,5 +4162,7 @@
   "Revert \"userdb: add birthDate field to JSON user records": "恢复“userdb：将birthDate字段添加到JSON用户记录",
   "Hide macOS Tahoe's Menu Icons": "隐藏 macOS Tahoe 的菜单图标",
   "Is playing music good for the brain?": "听音乐对大脑有好处吗？",
-  "Professional video editing, right in the browser with WebGPU and WASM": "专业视频编辑，直接在浏览器中使用 WebGPU 和 WASM"
+  "Professional video editing, right in the browser with WebGPU and WASM": "专业视频编辑，直接在浏览器中使用 WebGPU 和 WASM",
+  "EFF Tells Publishers: Blocking the Internet Archive Won't Stop AI, But It Will Erase The Historical Record": "EFF 告诉出版商：封锁互联网档案不会阻止人工智能，但会抹去历史记录",
+  "No Semicolons Needed": "不需要分号"
 }
