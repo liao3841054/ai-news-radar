@@ -1,248 +1,228 @@
 {
-  "generated_at": "2026-03-26T21:01:07.619843Z",
+  "generated_at": "2026-04-05T14:06:39.033307Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-26",
-  "count_today": 8,
+  "latest_date": "2026-04-04",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-03-26",
-      "title": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
+      "date": "2026-04-04",
+      "title": "本文分析了小龙虾打电话feishu-meeting-call技能架构与源码实现，拆解出核心公式（Token管理+API调用+业务逻辑+降级策略+智能触发）。基于此方法论，提出十大飞书高频场景的实战方案，展示如何利用新版skill-creator将普通飞书应用升级为个性化智能助理，实现从“使用技能”到“创造技能”的能力跃迁。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
+      "date": "2026-04-04",
+      "title": "大多数人学习了AI相关知识后，却完全不知道该打造什么作品。或许掌握了理论知识，熟悉各类工具，可一旦坐下来动手创作，就只能对着空白屏幕发呆。这份清单就是为了解决这个问题。25个项目按难度分级整理，每个项目都能在一个周末内完成，每个项目都能解决实际问题，每个项目所学到的技能，还能为后续项目打下基础、层层叠加。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
+      "date": "2026-04-04",
+      "title": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
+      "date": "2026-04-04",
+      "title": "Simon Willison 是 Django 的联合创始人——那个同时托着 Instagram、Pinterest、Spotify 的 Web 框架。他创造了\"prompt injection\"这个词，普及了\"AI slop\"和\"agentic engineering\"的概念，还有超过 100 个开源项目，其中 Datasette 已经成为全球调查记者的常用工具。在这期 Lenny's Podcast 对谈里，他带来的不是预测，而是一个在最前线工作的工程师，对这个行业正在发生的事情最诚实的描述。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
+      "date": "2026-04-04",
+      "title": "RAG 特别吃内存，不优化就跑不动、跑太贵、跑太慢。通过这篇文章，来让我们看看Perplexity、Azure、HubSpot等众多公司如何使用二进制量化技术，使检索增强生成（RAG）的内存效率提高32倍（附代码解释）！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-26",
-      "title": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
+      "date": "2026-04-04",
+      "title": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 37,
   "updates_7d": [
     {
-      "date": "2026-03-26",
-      "title": "这篇文章带你一同了解Skills 是什么、怎么建 、怎么建好以及Anthropic 在 2026 年 3 月刚推出的三个重要升级。",
+      "date": "2026-04-04",
+      "title": "本文分析了小龙虾打电话feishu-meeting-call技能架构与源码实现，拆解出核心公式（Token管理+API调用+业务逻辑+降级策略+智能触发）。基于此方法论，提出十大飞书高频场景的实战方案，展示如何利用新版skill-creator将普通飞书应用升级为个性化智能助理，实现从“使用技能”到“创造技能”的能力跃迁。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "裁员新闻铺天盖地，AI 要抢走饭碗的焦虑四处蔓延——但如果暂时放下这些头条，认真看看数据，会发现一个截然不同的故事。科技行业的招聘正在呈现许多令人鼓舞的信号，同时也浮现了一些值得关注的新趋势！",
+      "date": "2026-04-04",
+      "title": "大多数人学习了AI相关知识后，却完全不知道该打造什么作品。或许掌握了理论知识，熟悉各类工具，可一旦坐下来动手创作，就只能对着空白屏幕发呆。这份清单就是为了解决这个问题。25个项目按难度分级整理，每个项目都能在一个周末内完成，每个项目都能解决实际问题，每个项目所学到的技能，还能为后续项目打下基础、层层叠加。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "用 Claude Code 写代码的人都熟悉一个场景：Claude 每执行一个命令、每改一个文件，都要你点一次“同意”。Anthropic 的数据显示， 用户 93% 的操作都会批准 。也就是说，这个“安全审批”环节，绝大多数时候只是一个条件反射。Anthropic 刚发布了 Claude Code 的 auto mode（自动模式），试图解决这个问题。他们写了一篇工程博文详细解释了原理，里面有不少有意思的工程设计。",
+      "date": "2026-04-04",
+      "title": "在用Claude Code开发时误改配置、乱删文件、漏跑测试的痛点，靠Hooks就能一键解决。这篇文章推荐了8个Claude Code Hooks，对日常使用AI写码的人来说实用性极强，快上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "最近作者的也遇到了长文的创作瓶颈，正好看到了 Dan Koe的这篇深度长文，读完之后深有感触，于是他将原文进行编译分享给各位。如果你也苦恼于如何提升创作力，请花10分钟认真读完这篇文章，你一定不会后悔。",
+      "date": "2026-04-04",
+      "title": "Simon Willison 是 Django 的联合创始人——那个同时托着 Instagram、Pinterest、Spotify 的 Web 框架。他创造了\"prompt injection\"这个词，普及了\"AI slop\"和\"agentic engineering\"的概念，还有超过 100 个开源项目，其中 Datasette 已经成为全球调查记者的常用工具。在这期 Lenny's Podcast 对谈里，他带来的不是预测，而是一个在最前线工作的工程师，对这个行业正在发生的事情最诚实的描述。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "作者用多维表格AI从最简单的 搭个活动报名系统 一路用到 搭一套完整的培训机构管理系统 ，把能做什么、做不了什么全部记下来。让我们来一探究竟！",
+      "date": "2026-04-04",
+      "title": "RAG 特别吃内存，不优化就跑不动、跑太贵、跑太慢。通过这篇文章，来让我们看看Perplexity、Azure、HubSpot等众多公司如何使用二进制量化技术，使检索增强生成（RAG）的内存效率提高32倍（附代码解释）！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "作者有一套流水线，可以在三个小时以内摸透一个领域最核心的东西。 去年靠这套方法，录制了gxb AI 智能体证书的课程，搭建了长沙某集团整套的矩阵运营系统。今天他把这套方法论完整公开。 看完之后，或许你也能搭建属于你自己的内容变现流水线。",
+      "date": "2026-04-04",
+      "title": "Jenny Wen ，Anthropic 的设计负责人，Cowork 的设计主导者。她最近上了一期播客，完整展示了自己怎么用 Cowork 干活，还讲了 Cowork 的真实诞生过程，以及产品界面经历了多少次推翻重来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "Claude Code生态发展很快，头部项目已经有10万star了。作者整理了9个值得关注的开源项目，从技能框架到记忆系统到工作流自动化，基本覆盖了当前热门的方向。",
+      "date": "2026-04-03",
+      "title": "更可控 、 更全能 的 视频创作大模型 Wan2.7-Video 全新上线。除了“生成”，本次升级更是聚焦在 “创作” 全链路，覆盖 生成、编辑、复刻、重塑、驱动、续写、参考 …… 一个更低使用门槛、真正能导擅演、服务于创作者的视频创作套件，来了！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-26",
-      "title": "3月4日凌晨发出那句「me stepping down. bye my beloved qwen」之后，林俊旸在社交媒体上沉默了三周。今天，他在 X（Twitter）上发布了离职以来的 第一篇长文。在这篇文章里，他没有谈离职原因，没有回应去向传闻。全文只做了一件事：写下他对 AI 下一阶段方向的判断。",
+      "date": "2026-04-03",
+      "title": "或许你也经常看到很多推荐GitHub项目的文章，这篇文章帮助小白可以熟练上手GitHub，先从最简单的搜索开始。作者主要分享了GitHub项目信息的四种搜索方式，以及GitHub中都有什么信息。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-25",
-      "title": "这篇文章是Anthropic工程师在实战中搞清楚的一件事： 要让 AI 真正做好长时间、复杂的任务，光靠一个聪明的模型是不够的。你需要设计一套系统。让我们一起来一探究竟！",
+      "date": "2026-04-03",
+      "title": "Mo Gawdat在谷歌X担任首席商务官超过十年，主导过上百个前沿科技项目的商业化探索。在这期对话里，他从七个维度拆解了未来就业市场的走向并给出了四条异常清醒的个人准备建议。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-25",
-      "title": "本篇文章带你一起从第一性原理出发，探讨为何管理AI智能体集群需要的是一个OS层，而非更好的框架，以及该层实际需要承担的任务。",
+      "date": "2026-04-03",
+      "title": "Claude 平台团队技术人员 Lance Martin 分享了团队在构建应用时应该采用的三个核心模式。这些模式能帮助你的应用跟上 Claude 智能进化的步伐，同时兼顾延迟和系统成本。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-25",
-      "title": "最近小互一直研究 Claude Code 工作流，自动化搜集素材、处理素材、写文章、自动配图、自动排版、自动同步到各个平台。从今天开始他将陆续公布最近研究和实战的结果，帮助大家学习 Claude Code 工作流，如何实现各种复杂工作的自动化...",
+      "date": "2026-04-03",
+      "title": "2026 年第一季度，OpenAI、Cursor 和 Anthropic 先后发布了各自在 agent-first 软件开发上的实践报告。三篇文章都被归入同一个术语：harness engineering。但仔细读下来，它们讲的几乎是三件完全不同的事。这篇文章提供了一个统一框架来理清这些讨论。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-25",
-      "title": "就在昨天，OpenAI 官方账号发布了一则简短的告别声明：“我们要和 Sora 说再见了。”不仅 App 关停、API 下线，就连原本计划接入 ChatGPT 的视频功能也一并搁置。这背后，究竟藏着怎样不为人知的深层原因？",
+      "date": "2026-04-03",
+      "title": "2026 年来看大模型效果真正拉开差距的地方，慢慢不再是预训练本身了，而在它更后面的那一大段：后训练、评测、奖励、Agent 训练、蒸馏，每一个步骤都在影响用户实际感受效果。你发现某个模型突然变强了，背后可能是这几块一起优化到位了，而非单一因素导致。本篇文章就按大模型训练链路顺序来讲，非专业背景的人也能读得懂。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-25",
-      "title": "在这场对谈中， 围绕a16z如何判断成长阶段公司的 “ 第二增长曲线 ” 展开系统阐述，重点谈到 Waymo 、 ElevenLabs 、 Kalshi 、 Coinbase 、 Robinhood 、 Stripe 、 Revolut 等公司的投资逻辑，以及私募与公开市场的增长断层、 AI 时代毛利率与留存指标的重新定义、预测市场的监管路径和金融科技平台的长期演化方向。",
+      "date": "2026-04-02",
+      "title": "都说OpenAI和Anthropic是死对头，但是上周OpenAI悄悄发布了一个东西，叫 codex-plugin-cc （OpenAI Codex的Claude Code官方插件），专门给在用Claude Code的人装的。它可以让你在Claude Code工作流里，直接调用Codex干活。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "虾干完活了你不知道？让🦐停下来休息了？这怎么行。CY带你让OpenClaw强提醒，干完活打个电话告诉你！从应用创建、权限开通到技能安装，有详细指引和排错方案，快来上手试试！",
+      "date": "2026-04-02",
+      "title": "本篇文章将从智能体框架、多智能体协同调度、智能体循环机制、工具调用、子智能体协作这几个方面一步步带你搭建出你的第一个真正意义上的AI Agent！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "社区里有超过8万个 Claude Code Skills，GitHub上每周都冒出新的Agent框架和工具。问题是绝大多数都是噪音，真正好用的可能不到1%。有一位开发者扫了1000多个仓库，实测了 200多个 Skills，最终筛出了 50 个真正值得关注的工具，几乎覆盖了当下 AI 开发工作流的所有核心场景。",
+      "date": "2026-04-02",
+      "title": "一年来给企业做AI场景咨询，最常被问的就是\"我们公司到底哪里能用AI\"。不同行业、不同规模的企业，虽然业务千差万别，但\"找AI场景\"的方法论是通用的。所以作者的团队就把这套方法论产品化，做成了一个AI Agent可以自动执行的Skill。并且已经开源，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "当机器的知识量彻底碾压人类，我们独有的“智慧”与“悟性”，究竟该如何刻意练习？如果你正处在职业的迷茫期，或者正在思考如何在这个疯狂的时代构建自己的个人系统，这期长达一个半小时的硬核对谈，或许会给你一些帮助。",
+      "date": "2026-04-02",
+      "title": "skill-creator 是一个“教 AI 如何写好技能说明书”的工具，也是创建技能时最关键的一环。旧版只是教你写说明书，而新版不仅教你怎么写，还会帮你考核、打分、纠正问题，直到你写出一份真正好用的说明书为止。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "前几天 ，一篇来自Kimi的论文「ATTENTION RESIDUALS」在 AI 圈引发了激烈讨论——马斯克罕见地发出评价：\"Impressive work from Kimi\"。同时，两位前Openai大佬也同样发出了高度评价，OpenAI 「推理模型之父」Jerry Tworek表示“深度学习2.0时代即将到来”。然而这篇论文的共同一作者之一，是一位17岁的中国高中生——陈广宇。那这篇论文究竟写了什么，能让这些顶级大佬集体出动，这篇文章用更易懂的方式让大家了解它是什么，解决了什么问题。",
+      "date": "2026-04-02",
+      "title": "OpenAI总裁访谈背后，藏着这家巨头的真实焦虑与战略赌局。砍掉Sora不只是技术聚焦，更是止损巨额烧钱与用户流失；即将推出的Super App想要整合聊天、编程与浏览器能力，意图打造统一 AI 入口，却直面微软与Anthropic的夹击。OpenAI 又将会如何应对？让我们来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "关于OpenClaw大家不仅仅在讨论怎么玩得更花，而更多的是两个字： 太贵 。以及另外两个字： 不安全 。甚至网上已经出现了 付费卸载龙虾 的笑话。今天这篇文章带大家使用 OpenClaw + n8n，打造更便宜、更安全的 Agent 。",
+      "date": "2026-04-02",
+      "title": "Google DeepMind 发布了新一代开源模型 Gemma 4：以 30B 左右的参数，逼近其他头部开源模型！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-24",
-      "title": "为了保证小白也能在安卓手机部署成功OpenClaw，作者尝试了很多次，不停的优化方案，最终找到一条最合适的部署路线！本篇教程将详细介绍如何在安卓手机上零成本部署 OpenClaw，并通过飞书机器人实现对话交互。不需要额外的硬件投入，利用闲置手机就可以搭建 24 小时在线的AI助手。",
+      "date": "2026-04-02",
+      "title": "Claude Code 的完整源码被意外泄露，作者让Claude自己读自己的源码，做了一个精美PDF排版Skill，最终产出了一份超过 10 万字、覆盖 30+ 章节的深度技术报告。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "部署完小龙虾后，一旦出现故障或需要修改配置文件，OpenClaw的配置文件看起来是不是像天书？本文档完整梳理了 OpenClaw 配置文件~/.openclaw/openclaw.json 中所有24个顶层字段的含义与用法，或许对你有帮助。",
+      "date": "2026-04-01",
+      "title": "这份手册是作者和Claude Code一起写的。对，用CC写CC教程，它自己教你怎么用它。信息来源主要是Anthropic官方文档、Claude Code之父Boris Cherny的分享、吴恩达的Claude Code课程，再加上我自己用CC做了十几个产品踩过的坑。我用CC大半年了，每个月给Anthropic付200多美金（含税），烧过数十亿tokens，该踩的坑基本都踩了一遍。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "这篇文章，作者用最通俗的语言、最生活化的例子，把AI的100个核心概念讲得明明白白。",
+      "date": "2026-04-01",
+      "title": "Claude Code 的完整源码泄漏后 有人说\"44个隐藏feature flag\"。小互翻完源码的实际数字是87个。让我们来一同看看这背后隐藏了哪些未上线的功能！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "这周AI音乐领域迎来合规与创新的双重爆发！英国取消AI版权豁免，BMG、索尼等重拳维权，首个AI流媒体欺诈案宣判。BandM8、Roland等都推出“音乐生音乐”协作平台，专业音乐人AI使用率达78%，分轨提取成为了核心需求。更有多篇前沿论文聚焦音色控制、音频水印等关键方向。",
+      "date": "2026-04-01",
+      "title": "Anthropic 这种量级的公司，他们会怎么设计 AI Agent？看完源码才发现，这不是“Prompt 工程”那么简单，而是 缓存架构 + 自我进化记忆 + 多模式编排 的完整基础设施。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "如果你关注AI领域，这一年一定被这三个词轮番轰炸过： Prompt Engineering 、 Context Engineering 、 Harness Engineering。今天这篇文章，作者从「本质」聊起，串联它们的演进脉络，厘清它们的区别以及对我们设计 Agent 到底有什么用。",
+      "date": "2026-04-01",
+      "title": "Agent = Model + Harness。 模型提供智能，Harness 让智能变得有用。这不是一个新概念，但它正在成为 2026 年 AI 工程领域最核心的共识。本文将从\"裸模型的四个硬伤\"出发，逐一拆解 Harness 的六大组件——文件系统、Bash + 沙箱、记忆（AGENTS.md）、Web Search + MCP、上下文工程、编排 + Hooks——带你看清 AI Agent 真正的竞争壁垒，不在模型层，而在 Harness 层。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "做内容的人都知道，写稿并不难。真正磨人的，是前面找选题、找线索、找一手信息，中间把结构捋顺，后面再把内容做成图文、演示稿或者别的形式。所以内容创作最缺的，往往不是一个“会写稿的 AI”，而是能真正嵌进工作流的能力。下面是作者实测后，优先推荐的几组适合做内容的 skill。",
+      "date": "2026-04-01",
+      "title": "3月份，是OpenClaw制霸的一个月，各家主要以推出各种Claw为主，大模型这一块，超大尺寸的模型，基本上各家都是发布，但没更新，比如， 智谱的GLM5-Turbo模型 、 千问的Qwen3.5-Omni-Plus模型 、MiniMax的M2.7模型、 小米的MiMo-V2-Pro模型 等等。不过盘点下来，还是开源了不少模型，Qwen开源了3.5系列的小模型、美团开源了全模态和定理模型、腾讯开源了视觉&音频模型、小红书开源了OCR&图像编辑模型。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "以前使用各种产品，有不好用的地方都只能找平台方反馈，大部分是得不到回复的。一部分是因为研发资源有限等排期，还有一大部分需求被评估之后抛弃了。 而现在，自己使用的工具和工作流每天都可以数次迭代，而且很多产品经过改造变得更加适合自己，再也不需要去等待平台的建设，更不用接受平台的\"取舍\"。那么或许产品的未来会从\"以用户为中心\"转变为\"用户主导开发（UDD）\"",
+      "date": "2026-03-31",
+      "title": "本周AI领域TOP论文覆盖自我进化、智能大爆发、模型架构与安全等核心方向。Hyperagents实现元认知自我优化，谷歌提出智能爆发来自社会式组合智能，ARC-AGI-3凸显人机推理差距。Claudini让AI自主发现更强对抗攻击，MemCollab实现跨模型记忆共享，多项技术在代码、强化学习、多智能体协作上大幅提升性能。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "一泽做的一个Skill，支持：一次性打开操作 100+ 浏览器网页、自动化模拟操作，发布各大社媒平台、帮你直接找 B 站、网飞等并自动打开播放、自动查美签系统，看可预约时间并预约、Agent 自动化测试 Web App等等。",
+      "date": "2026-03-31",
+      "title": "山音超级编剧大师 - 全格式影视编剧 Skill 是由 @山音 设计的自然语言驱动编剧 Agent Skill 覆盖 1-3 分钟概念超短片→90 分钟电影长片→多集剧集的全流程剧本创作，一站式搞定人物、大纲、场景、剧本全链路，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-23",
-      "title": "OpenClaw安装容易，用起来难 。做电商的公司，问虾上个月的退货率，它跑去网上搜；让它写封催款邮件，它连客户欠了多少钱都不知道。这样的虾，跟鱼缸里的宠物没什么区别，只有观赏价值。很多人说企业养虾没养好，是模型不够强，是 Skill 写得不好。这话不完全对。虾住在哪里，比虾本身重要。",
+      "date": "2026-03-31",
+      "title": "万众期待的 PixVerse V6 终于上线啦！🎉社区专属福利：200份7天Pro会员兑换码，点击文档直接领取，手慢无！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "这期访谈围绕AI agents的快速崛起所带来的产业变化展开讨论。在近期生成式AI与Agent工具能力跃迁的背景下，四位YC合伙人结合一线创业观察与亲身使用体验，探讨agent如何改变软件使用方式、开发者工具的分发逻辑以及未来产品设计原则。",
+      "date": "2026-03-31",
+      "title": "WaytoAGI第五期「Openclaw小龙虾训练营」的课程已经进行了一半啦，在过去一周（2026年3月11日——2026年3月20日）我们收到了许多同学的作业投稿，经过层层筛选，最终精选出6位同学共11篇笔记分享给大家，希望大家有所收获，同时也感谢这几位同学的认真撰写。如果大家有好的想法想要投稿，记得通过下方二维码「作业投稿」和大家分享你的优秀作业笔记！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "微信终于下场，做了第一个真正意义上让 外部AI接入微信 的功能。微信本次提供的方案， 本质上是一种信息传递桥梁，既然能够把OpenClaw的信息传到微信上，那么任意Agent的信息都将能够接到微信上。于是，梦飞下午研究了这个插件，并且进行了改造。",
+      "date": "2026-03-31",
+      "title": "Claude Code的完整TypeScript源码，51.2万行，1903个文件，就这样暴露在了公网上。Claude Code和其他AI编程工具到底有什么本质区别？为什么它写代码的\"手感\"就是比别人好？51万行代码里，到底藏着什么？快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "当下AI Agent普遍存在工具隔离、联动困难、部署繁琐的痛点，而Taku凭借三层Harness架构给出了全新解法。区别于Claude Code天然隔离的设计，Taku更贴合普通用户，降低了组装、分发AI能力的门槛，普通人也能一键串联各类工作流，快速搭建专属复合工具。",
+      "date": "2026-03-31",
+      "title": "Anthropic 研究科学家 Nicholas Carlini 在 [un]prompted 2026 安全会议上用不到 25 分钟演示了一件事： 语言模型现在可以自主找到并利用零日漏洞 ，目标包括 Linux 内核这种被人类安全专家审计了几十年的软件。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "大多数Claude Code用户都将.claude文件夹视为一个黑盒。他们知道这个文件夹存在，也见过它出现在项目根目录中，但从未打开过，更不了解里面每个文件的作用。本指南将全面解析该文件夹的完整结构，涵盖日常常用文件以及只需一次配置、后续无需打理的文件。",
+      "date": "2026-03-31",
+      "title": "3月31日，安全研究员Chaofan Shou发现 Anthropic 的 Claude Code 全部源码通过npm包里的一个source map文件暴露在了公网上。其中1,900 个 TypeScript 源文件， 512,000 行代码，从工具系统到权限模型到未发布功能，全部以未混淆的原始形态公开可下载。几个小时之内，源码被多人备份到 GitHub。其中最大的一个备份仓库 一个小时内涨到11,300star 和 17,300fork，568个issue，让我们来一起探究事件的始末！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "你有没有遇到过这样的场景：把问题丢给 AI，得到的却是一堆\"众所周知\"\"据报道\"的空话，找不到来源，也经不起追问？Cat-Research 就是为了解决这个问题而生的。它不是一个聊天机器人，而是一套多智能体协作的深度研究系统。 项目已开源，欢迎 Star ⭐～",
+      "date": "2026-03-30",
+      "title": "本周AI音乐赛道迎来密集升级，从创作、剪辑到音频处理全面突破。谷歌Lyria 3 Pro实现长音频结构化生成，Suno v5.5主打声音克隆与个性化创作，Mureka新增视频配乐能力，工具实用性大幅提升。LALAL.AI分轨效率与音质同步优化，Neural frames、Tunee则让MV与虚拟艺人制作更简单。而且多篇前沿论文发布，覆盖长音频生成、音乐质量评估、深度伪造检测等关键方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-22",
-      "title": "2026年2月，Forsgren在Gergely Orosz主办的The Pragmatic Summit上做了一场对谈，覆盖 AI 时代的瓶颈转移、组织流程债务、度量陷阱和变革管理。让我们一同来一探究竟！",
+      "date": "2026-03-30",
+      "title": "Tesla、SpaceX、xAI等多家前沿科技公司的创始人兼CEO Elon Musk和XPRIZE 基金会创始人兼执行主席 Peter Diamandis两人围绕 xAI 、 Grok 进展、 Optimus 机器人量产、 AGI 明确的时间表以及后稀缺时代 “ 全民高收入 ” 的经济形态展开了深入而极具前瞻性的对话。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-21",
-      "title": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
+      "date": "2026-03-30",
+      "title": "Harness 到底是什么？放到AI的语境里，Harness就是你给AI搭的整套工作环境：告诉它什么能做什么不能做的规则文件，自动检查它有没有犯错的校验脚本，帮它记住重要信息的上下文管理，出了问题能回滚的安全机制。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-21",
-      "title": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
+      "date": "2026-03-30",
+      "title": "Claude Cowork产品技术负责人Felix 从产品设计的第一原则出发，解释了 Anthropic 为何在\"云优先\"的浪潮中，执意把 AI agent 留在你的本地电脑——以及虚拟机、Skills、零执行成本这套组合拳，究竟在改变哪些根本性的东西。如果你关心 AI agent的产品逻辑、知识工作的自动化路径、或者 Anthropic 内部的工程文化，这期值得细读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-21",
-      "title": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
+      "date": "2026-03-30",
+      "title": "Claude Code创始人Boris Cherny分享了他最新的15条使用技巧，让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-21",
-      "title": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-21",
-      "title": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-21",
-      "title": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
+      "date": "2026-03-30",
+      "title": "AI出海正进入精细化增长阶段，OpenClaw、A2A支付等方向热度攀升。流量成本走高，GEO与传统SEO成为了关键入口。本篇文章带你揭秘不同区域市场的付费差异与选择逻辑，给出0-1阶段定ICP、跑通渠道、讲清价值的核心步骤，更有SEO页面优化、外链、小语种布局等实战方案。对AI出海创业者而言，能直接避开常见误区，快速搭建可落地的增长打法。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
