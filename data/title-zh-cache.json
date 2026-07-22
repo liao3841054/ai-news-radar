@@ -18875,5 +18875,8 @@
   "Yubikey 5.8: Verified Authorization for the New Era of Identity and AI": "Yubikey 5.8：身份和人工智能新时代的验证授权",
   "Show HN: An MCP server that turns async-work practices into tools": "Show HN：将异步工作实践转化为工具的 MCP 服务器",
   "Show HN: Anypost – transactional and broadcast email API, 8¢ per 1k": "Show HN：Anypost – 交易和广播电子邮件 API，每 1k 8 美分",
-  "Over 400 Linux CVEs published in the last 24 hours alone": "仅在过去 24 小时内就发布了 400 多个 Linux CVE"
+  "Over 400 Linux CVEs published in the last 24 hours alone": "仅在过去 24 小时内就发布了 400 多个 Linux CVE",
+  "Codeberg: ToU extension to prohibit LLM-extrusions": "Codeberg：禁止 LLM 挤压的 ToU 扩展",
+  "Never Enough": "永远不够",
+  "GitHub suddenly rejected my SSH key (the fix was a .pub file?)": "GitHub 突然拒绝了我的 SSH 密钥（修复是 .pub 文件？）"
 }
